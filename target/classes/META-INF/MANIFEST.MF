@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
 Built-By: rahul.jesuraj
 Build-Jdk: 11.0.7
+Main-Class: com.package.Test
 Created-By: Maven Integration for Eclipse
 
