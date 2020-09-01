@@ -21,7 +21,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.javatechie.Test</mainClass>
+            <mainClass>com.javatechie.Test1</mainClass>
           </manifest>
         </archive>
       </configuration>
