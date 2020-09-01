@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: rahul.jesuraj
 Build-Jdk: 11.0.7
-Main-Class: com.javatechie.Test1
+Main-Class: javatechie.Test1
 Created-By: Maven Integration for Eclipse
 
